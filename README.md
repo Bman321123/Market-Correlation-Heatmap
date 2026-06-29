@@ -1,5 +1,7 @@
 # Market Correlation Heatmap
 
+*README courtesy of Claude; Code courtesy of me.*
+
 A small project that downloads historical stock prices, computes the
 correlation of their daily returns, and visualizes the result as a heatmap —
 plus a bar chart of the most correlated pairs. Built as a hands-on
